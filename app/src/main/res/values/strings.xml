@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="a1Button">Button</string>
+    <string name="a1Text">Edit text</string>
+    <string name="a2Button">Button</string>
+    <string name="a2InputFromA3"></string>
+    <string name="a2InputFromA2"></string>
+    <string name="a3Text">Edit Text</string>
+    <string name="a3Button">Button</string>
+
+    <string-array name="week_array">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+    </string-array>
+
+</resources>
